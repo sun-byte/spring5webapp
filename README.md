@@ -1,2 +1,2 @@
 # spring5webapp
-Web application using Spring Framework, JPA and Mando DB
+Web application using Spring Framework, JPA and Mango DB
